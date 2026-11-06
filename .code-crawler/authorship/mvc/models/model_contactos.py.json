@@ -1,0 +1,168 @@
+{
+  "filePath": "mvc/models/model_contactos.py",
+  "lines": [
+    {
+      "line": 38,
+      "author": "human",
+      "confidence": 0.8,
+      "aiEdits": 1,
+      "humanEdits": 5,
+      "lastEditType": "human",
+      "lastEditTimestamp": 1793982098975,
+      "signals": {
+        "typingRhythm": 0.675,
+        "editSize": 0.95,
+        "cursorMovement": 0.5,
+        "editSequence": 0.71,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.5,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 39,
+      "author": "ai",
+      "confidence": 0.14994840041279667,
+      "aiEdits": 1,
+      "humanEdits": 0,
+      "lastEditType": "ai",
+      "lastEditTimestamp": 1793982346938,
+      "signals": {
+        "typingRhythm": 0.325,
+        "editSize": 0.95,
+        "cursorMovement": 0.1,
+        "editSequence": 0.5470588235294118,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.15,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 40,
+      "author": "ai",
+      "confidence": 0.14994840041279667,
+      "aiEdits": 1,
+      "humanEdits": 0,
+      "lastEditType": "ai",
+      "lastEditTimestamp": 1793982346938,
+      "signals": {
+        "typingRhythm": 0.325,
+        "editSize": 0.95,
+        "cursorMovement": 0.1,
+        "editSequence": 0.5470588235294118,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.15,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 41,
+      "author": "ai",
+      "confidence": 0.14994840041279667,
+      "aiEdits": 2,
+      "humanEdits": 0,
+      "lastEditType": "ai",
+      "lastEditTimestamp": 1793982346938,
+      "signals": {
+        "typingRhythm": 0.325,
+        "editSize": 0.95,
+        "cursorMovement": 0.1,
+        "editSequence": 0.5470588235294118,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.15,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 42,
+      "author": "human",
+      "confidence": 0.06384615384615377,
+      "aiEdits": 0,
+      "humanEdits": 2,
+      "lastEditType": "human",
+      "lastEditTimestamp": 1793982043717,
+      "signals": {
+        "typingRhythm": 0.675,
+        "editSize": 0.15000000000000002,
+        "cursorMovement": 0.3,
+        "editSequence": 0.6799999999999999,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.5,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 48,
+      "author": "human",
+      "confidence": 0.03707692307692301,
+      "aiEdits": 0,
+      "humanEdits": 1,
+      "lastEditType": "human",
+      "lastEditTimestamp": 1793981975300,
+      "signals": {
+        "typingRhythm": 0.675,
+        "editSize": 0.19999999999999996,
+        "cursorMovement": 0.3,
+        "editSequence": 0.692,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.5,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 49,
+      "author": "human",
+      "confidence": 0.3102222222222222,
+      "aiEdits": 0,
+      "humanEdits": 5,
+      "lastEditType": "human",
+      "lastEditTimestamp": 1793982365181,
+      "signals": {
+        "typingRhythm": 0.325,
+        "editSize": 0.5,
+        "cursorMovement": 0.1,
+        "editSequence": 0.54,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.7,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    }
+  ],
+  "summary": {
+    "totalLines": 7,
+    "aiLines": 3,
+    "humanLines": 4,
+    "mixedLines": 0,
+    "aiPercentage": 43,
+    "humanPercentage": 57
+  },
+  "lastUpdated": 1793982825072
+}

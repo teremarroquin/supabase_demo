@@ -38,7 +38,8 @@ class ModelContactos:
         return response.data
 
     def actualizarContacto(self, id_contacto, nombre, email, telefono):
-        response = self.supabase.table("contactos").update(datos)
+        response = self.supabase.table("contactos").update({"nombre": nombre, "email": email, "telefono": telefono}).eq("id_contacto", id_contacto).execute()
+        return response.data
 
 if __name__ == "__main__":
     model_contactos = ModelContactos()
@@ -46,3 +47,4 @@ if __name__ == "__main__":
     print(model_contactos.buscarContacto(2))
     print(model_contactos.insertarContacto('nombre', 'email', 'telefono'))
     print(model_contactos.borrarContacto(3))
+    print(model_contactos.actualizarContacto(4, "Mayra", "mayra@gmail.com", "71981519898"))

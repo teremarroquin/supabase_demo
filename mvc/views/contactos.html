@@ -1,0 +1,22 @@
+$def with(datos)
+<h1>Contactos</h1>
+
+$for registro in datos:
+    $registro["nombre"]
+
+<table>
+    <head>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Email</th>
+        <th>Teléfono</th>
+    </head>
+    <body>
+        <tr>
+            <td>1</td>
+            <td>Alvarito</td>
+            <td>alvarito@gmail.com</td>
+            <td>627627627627</td>
+        </tr>
+    </body>
+</table>
